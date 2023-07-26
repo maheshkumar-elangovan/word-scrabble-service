@@ -1,4 +1,5 @@
 **Word Scrabble App**
+Clone Repo with the URL: https://github.com/maheshkumar-elangovan/word-scrabble-service.git
 
 Service is written with following technologies
 
